@@ -3,3 +3,34 @@ body {
   height: 100%;
   margin: 0;
 }
+h1 {
+  text-align: center;
+}
+
+img {
+  padding-left: 60px;
+}
+
+a {
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: grey;
+}
+
+figcaption {
+  font-size: 0.7rem;
+  text-align: center;
+}
+
+.paragraph {
+  width: 800px;
+  text-align: center;
+  margin: 0.4%;
+  margin-left: 400px;
+}
+
+ #details div {
+  float: left;
+  width: 25%;
+  text-align: center;
+}
